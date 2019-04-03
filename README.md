@@ -1,10 +1,14 @@
 # Aged-Care-Management 
 Aged Care management System
- Bussiness Logic 
- -Register/Login System
--Nurse visiting records
--User daily health records
--Send/Reply message with administrator
--Get information from Doctors
+
+project Developed Using spring STS and Angular 
+
+Bussiness Logic/Requiremants
+ 
+1. Register/Login System
+2. Nurse visiting records
+3. User daily health records
+4. Send/Reply message with administrator
+5. Get information from Doctors
 
  
